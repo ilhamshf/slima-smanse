@@ -5,6 +5,8 @@ import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
 
 const data = [
   { number: 36, text: 'Students'},
+  { number: 98, text: 'API Request'},
+  { number: 44, text: 'Instagram Posts'},
 ];
 
 const Acomplishments = () => (
