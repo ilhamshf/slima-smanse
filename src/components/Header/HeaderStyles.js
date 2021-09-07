@@ -31,7 +31,7 @@ export const Div2 = styled.div`
   display: flex;
   justify-content: space-around;
   @media ${(props) => props.theme.breakpoints.sm} {
-    grid-area: 2 / 2 / 3 / 5;
+    grid-area: 2 / 3 / 3 / 5;
   }
 `;
 export const Div3 = styled.div`
@@ -41,7 +41,7 @@ export const Div3 = styled.div`
   align-items: center;
   @media ${(props) => props.theme.breakpoints.sm} {
     align-items: center;
-    grid-area: 1 / 4 / 2 / 6;
+    grid-area: 1 / 6 / 2 / 6;
   }
 `;
 
