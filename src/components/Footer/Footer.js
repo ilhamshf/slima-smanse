@@ -21,13 +21,16 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Look forward to our next greatness</Slogan>
+          <Slogan>Look forward to our next haha</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://instagram.com/slima.smanse">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
+        <CompanyContainer>  
+          <Slogan>© 2021 Build by Ilham Shofa</Slogan>
+        </CompanyContainer>
       </SocialIconsContainer>
     </FooterWrapper>
   );
