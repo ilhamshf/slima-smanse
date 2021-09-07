@@ -21,7 +21,7 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>Look forward to our next haha</Slogan>
+          <Slogan>Look forward to our next greatness</Slogan>
         </CompanyContainer>
         <SocialContainer>
           <SocialIcons href="https://instagram.com/slima.smanse">
